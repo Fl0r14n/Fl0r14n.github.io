@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "de.buhlgruppe.dispotool",
+    "sha256_cert_fingerprints": ["AE:FC:6A:57:5D:BC:5D:DC:E2:6A:5C:15:4F:5C:D0:9F:76:79:9F:B3:79:B1:F1:AA:AD:36:F9:05:5A:C9:90:1F"] }
+}]
